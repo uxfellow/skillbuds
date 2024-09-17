@@ -11,15 +11,27 @@ Welcome to **SkillBuds**—a neighborhood hub for kids to discover talents, lear
 Discover how SkillBuds can transform your neighborhood into a vibrant learning community. Watch our introduction video to see how we're empowering kids and local experts to connect through skill-building activities.
 
 
-## 🌟 Key Features
+## Key Features
 
 | **BudsLocator** | **BudgetSkills** | **ScheduleEase** | **SkillHub** |
 |-----------------|------------------|------------------|--------------|
 | <img src="https://imgur.com/QXKv0hP.png" alt="BudsLocator Icon" width="30"/><br>Easily discover skilled local experts by entering your location for personalized learning. | <img src="https://imgur.com/JuGJyCx.png" alt="BudgetSkills Icon" width="30"/><br>Browse and book budget-friendly lessons tailored to your child's interests. | <img src="https://imgur.com/qJHw1pp.png" alt="ScheduleEase Icon" width="30"/><br>Effortlessly organize lessons with our user-friendly scheduling system. | <img src="https://imgur.com/UKnPDwC.png" alt="SkillHub Icon" width="30"/><br>Explore a curated selection of skills, from arts to technology, fostering exploration and development. |
 
----
+### Card Sorting in the SkillBuds Project
 
-## 🎨 Brand Colors
+We used card sorting in the SkillBuds project to understand how users categorize learning activities. This helped us create a user-friendly structure that aligns with their expectations.
+
+![Card Sorting](https://imgur.com/kLarEZi.png)
+
+## Data Analysis Dashboard
+
+![Data Analysis Dashboard](https://imgur.com/Svtz373.png)
+
+<p style="text-align: center; color: #1E232C; font-size: 16px;">
+  Explore our comprehensive Data Analysis Dashboard to gain insights into how SkillBuds empowers learning in the community. This dashboard provides valuable metrics and visualizations that showcase our impact.
+</p>
+
+## Brand Colors
 
 To reflect the values and aesthetics of SkillBuds, we use the following brand colors:
 
@@ -30,7 +42,7 @@ To reflect the values and aesthetics of SkillBuds, we use the following brand co
 
 ---
 
-## 🖋️ Font Specifications
+## Font Specifications
 
 For optimal readability and brand consistency, use the following:
 
