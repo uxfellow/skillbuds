@@ -30,20 +30,3 @@ We used card sorting in the SkillBuds project to understand how users categorize
 <p style="text-align: center; color: #1E232C; font-size: 16px;">
   Explore our comprehensive Data Analysis Dashboard to gain insights into how SkillBuds empowers learning in the community. This dashboard provides valuable metrics and visualizations that showcase our impact.
 </p>
-
-## Brand Colors
-
-To reflect the values and aesthetics of SkillBuds, we use the following brand colors:
-
-- **Primary Color:** `#1E232C` - A deep, sophisticated navy that signifies professionalism and depth.
-- **Accent Color:** `#FFA24C` - A vibrant orange that adds energy and warmth.
-- **Background Color 1:** `#ffffff` - Crisp white for a clean and modern look.
-- **Background Color 2:** `#F7F8F9` - A soft light gray for subtle contrast and readability.
-
----
-
-## Font Specifications
-
-For optimal readability and brand consistency, use the following:
-
-- **H1 Main Heading:** 28px Montserrat Bold
